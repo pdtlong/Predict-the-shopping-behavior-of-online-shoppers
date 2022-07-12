@@ -1,1 +1,1 @@
-# Predicts-the-shopping-behavior-of-online-shoppers.
+# Predicts the shopping behavior of online shoppers.
